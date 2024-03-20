@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Archermystery/Archermystery/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Archermystery/Archermystery/output/snake.svg" alt="Snake animation" />
 
 # 💫 About Me:
 🌱 I’m currently learning TypeScript<br>
