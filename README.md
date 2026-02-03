@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/Archermystery/Archermystery/output/snake.svg" alt="Snake animation" />
 
 # 💫 About Me:
-🌱 I’m currently learning TypeScript<br>
+🌱 I’m currently learning C/C++ and rust<br>
 
 
 ## 🌐 Socials:
